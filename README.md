@@ -1,0 +1,2 @@
+WordPress-Sample-Child-Theme
+============================
